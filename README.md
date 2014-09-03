@@ -7,3 +7,4 @@ Allows you to register services and retrieve lists of servers for a given servic
 ### TODO
 
 - reregister services on reconnect
+- provide cached lookup while listening for changes
